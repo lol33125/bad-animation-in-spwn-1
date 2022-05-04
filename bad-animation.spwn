@@ -1,0 +1,8 @@
+test = 1g
+-> test.move(5, 10, 0.25)
+test.move(10, -10, 2)
+-> BG.set(rgb(0, 0, 0), 0.5)
+GROUND.set(rgb(0, 0, 0), 0.5)
+moving = 4g
+center = 5g
+moving.rotate(center,360,0.5)
